@@ -19,6 +19,11 @@
 > + 🌌 [multiverse](https://github.com/ssc-php/multiverse) _Monorepo containing decoupled PHP components (libraries and projects)_
 
 ---
+🚜 I spend 20 minutes most early murnings (while cooking the porridge) renovating this eXtreme Legacy (2005 LAMP) app:
+
+> 💋 [BisouLand](https://github.com/pyricau/bisouland)
+
+---
 💙 I love my craft, learning, and automating boring tasks.
 
 🛠️ So my pet projects usually revolve around code that writes (and evolves) code:
