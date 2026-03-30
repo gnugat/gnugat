@@ -17,6 +17,7 @@
 
 > 🔭 [Super Secret Code](https://github.com/ssc-php) (or `scc`):
 > + 🌌 [multiverse](https://github.com/ssc-php/multiverse) _Monorepo containing decoupled PHP components (libraries and projects)_
+> + 🍪 [dtk](https://github.com/ssc-php/dtk) _Kanban, Git and Deployment, in one coherent flow._
 
 ---
 🚜 I spend 20 minutes most early murnings (while cooking the porridge) renovating this eXtreme Legacy (2005 LAMP) app:
