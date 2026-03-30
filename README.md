@@ -57,5 +57,6 @@
 
 * 📔 [Blog](https://gnugat.github.io/)
 * 🦋 [BlueSky](https://bsky.app/profile/loicfaugeron.bsky.social)
+* 🦣 [Mastodon](https://phpc.social/@loicfaugeron) (`phpc.social`)
 * 💼 [LinkedIn](https://www.linkedin.com/in/lchardonnet/)
 * 🐙 [Github](https://github.com/gnugat/) (you are here! 📍)
